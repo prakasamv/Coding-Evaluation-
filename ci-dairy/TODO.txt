@@ -1,0 +1,6 @@
+Palindromes - On string reverse will give same word.
+    Edge Cases 
+        1.) Find the middle of the string and compare Right to Left &
+             Left to Right from center are same 
+        2.) Make sure first letter of the word should be Cap
+        
